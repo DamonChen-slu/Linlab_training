@@ -2,7 +2,7 @@
 
 
 ## Linux
-
+./docs/Linux.md
 
 ## Install tools with conda
 
